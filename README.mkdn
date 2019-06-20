@@ -24,7 +24,7 @@ The source at AOSP-EXTENDED is well configured for building.
 
 ```bash
 . build/envsetup.sh
-lunch redstone_dumpling-userdebug
+lunch aosp_dumpling-userdebug
 mka bacon -j$(nproc --all)
 
 
