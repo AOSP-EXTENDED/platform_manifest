@@ -7,16 +7,16 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
-  <remote  name="redstone"
-           fetch="https://github.com/P"
+  <remote  name="aosp"
+           fetch="https://github.com/AOSP-EXTENDED"
            revision="refs/heads/pie" />
 
   <remote  name=""
            fetch=""
            revision="refs/heads/pie" />
 
-  <remote  name="redstone"
-           fetch="https://github.com/Project-Redstone"
+  <remote  name="aosp"
+           fetch="https://github.com/AOSP-EXTENDED"
            revision="refs/heads/pie" />
 
   <!-- REDSTONE -->
